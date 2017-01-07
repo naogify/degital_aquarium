@@ -1,0 +1,19 @@
+{
+  "name": "degital_aquarium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naogify/degital_aquarium.git"
+  },
+  "author": "naoki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naogify/degital_aquarium/issues"
+  },
+  "homepage": "https://github.com/naogify/degital_aquarium#readme"
+}
